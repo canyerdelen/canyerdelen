@@ -1,4 +1,4 @@
-### 👋 ( ͡° ͜ʖ ͡°)
+### Hİ GUYS 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 - 🎓 UGD - Software Engineering
 - 📍  Turkey - North Macedonia 
