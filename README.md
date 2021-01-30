@@ -1,8 +1,8 @@
-### Hİ GUYS 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+### Hİ GUYS  
 
 - 🎓 UGD - Software Engineering
 - 📍  Turkey - North Macedonia 
-- 💻 Syber Security & Game Developer
+- 💻 Syber Security & Game Developer                                  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
 - 📱  www.instagram.com/canyerdelenn
 
 
