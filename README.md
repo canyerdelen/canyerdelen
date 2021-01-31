@@ -1,6 +1,6 @@
 # Hello, I'm Can
 
-###### <img src="https://tr.pinterest.com/pin/367887863292784985/">
+###### <img src="https://i.kym-cdn.com/photos/images/original/001/206/382/b7a.gif">
 
 ```
 - 🎓 UGD - Software Engineering
