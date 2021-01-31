@@ -17,10 +17,9 @@
 [[Twitter]](https://twitter.com/canyerdelenn0)
 #
 
-- 💬 Ask me about improving your team or personal dev skills - get started with [WeeklyDevTips](https://weeklydevtips.com) and [Pluralsight](https://www.pluralsight.com/authors/steve-smith)
-- 📫 How to reach me: [Blog Contact Form](https://ardalis.com/contact)
 - 🐦 [![Twitter](https://img.shields.io/twitter/follow/canyerdelenn0?label=Follow%20%40canyerdelenn0&style=social)](https://twitter.com/canyerdelenn0)
-- ⚡ Fun fact: I'm a beekeeper 🐝 and former combat engineer and explosives 💥 expert (p is for plenty).
-- 🥇 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/7716?fullName=Steven%20A.%20Smith) since 2002.
-- 📺 [Follow ardalis on Twitch](https://twitch.tv/ardalis). I stream weekly, usually Friday afternoons.
 
+## 🧠 Know / Using
+<img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/nuget/nuget.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/electron/electron.png?raw=true" height="32"/>
+<img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/react/react.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" height="32"/>
+<img src="https://github.com/github/explore/blob/master/topics/arduino/arduino.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/raspberry-pi/raspberry-pi.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/sql/sql.png?raw=true" height="32"/>
