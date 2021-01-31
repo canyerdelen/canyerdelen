@@ -14,12 +14,12 @@ E-Mail : <a href="/mailto:canyerdelen@hotmail.com ">canyerdelen@hotmail.com</a>
 
 <h3 align="left">Social Media:</h3>
 
-[![Twitter](https://img.shields.io/twitter/follow/canyerdelenn0?label=Follow%20%40canyerdelenn0&style=social)](https://twitter.com/canyerdelenn0)
-
-<a href="https://twitter.com/canyerdelenn0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt=canyerdelenn0" height="30" width="40" /></a>
+[![Twitter](https://img.shields.io/twitter/follow/canyerdelenn0?label=Follow%20%40canyerdelenn0&style=social)]()
 
 <a href="https://instagram.com/canyerdelenn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canyerdelenn" height="30" width="40" /></a>
-<a href="https://instagram.com/canyerdelenn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canyerdelenn" height="30" width="40" /></a>
+
+<a href="https://twitter.com/canyerdelenn0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="canyerdelenn0" height="30" width="40" /></a>
+
 
 
 
