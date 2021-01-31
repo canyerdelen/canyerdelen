@@ -14,10 +14,9 @@
 
 # Social Media
 [[Instagram]](https://www.instagram.com/canyerdelenn/)
-[[Twitter]](https://twitter.com/canyerdelenn0)
+[![Twitter](https://img.shields.io/twitter/follow/canyerdelenn0?label=Follow%20%40canyerdelenn0&style=social)](https://twitter.com/canyerdelenn0)
 #
 
-- 🐦 [![Twitter](https://img.shields.io/twitter/follow/canyerdelenn0?label=Follow%20%40canyerdelenn0&style=social)](https://twitter.com/canyerdelenn0)
 
 ## 🧠 Know / Using
 <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/nuget/nuget.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/electron/electron.png?raw=true" height="32"/>
