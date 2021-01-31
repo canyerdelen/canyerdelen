@@ -10,7 +10,7 @@
 # Social Media
 
 
-[[Instagram]]<img src= "https://www.freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png"> (https://www.instagram.com/canyerdelenn/)
+[[Instagram]](https://www.instagram.com/canyerdelenn/)
 [[Twitter]](https://twitter.com/canyerdelenn0)
 [[Discord]]
 
