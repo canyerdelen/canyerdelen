@@ -18,6 +18,19 @@
 #
 
 
+<h3 align="left">Beni takip et & iletişime geç:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oguzcan-genc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oguzcan-genc" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12813338" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12813338" height="30" width="40" /></a>
+<a href="https://instagram.com/canyerdelenn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canyerdelenn" height="30" width="40" /></a>
+<a href="https://medium.com/@oguzcangenc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@oguzcangenc" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
 ## 🧠 Know / Using
 <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/nuget/nuget.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/electron/electron.png?raw=true" height="32"/>
 <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/react/react.png?raw=true" height="32"/><img src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" height="32"/>
