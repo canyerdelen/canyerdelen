@@ -1,6 +1,6 @@
 # Hello, I'm Can
 
-###### <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
+###### <img src="https://tr.pinterest.com/pin/367887863292784985/">
 
 ```
 - 🎓 UGD - Software Engineering
