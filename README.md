@@ -14,12 +14,12 @@
 
 # 
 [[Instagram]](https://www.instagram.com/canyerdelenn/)
-[![Twitter](https://img.shields.io/twitter/follow/canyerdelenn0?label=Follow%20%40canyerdelenn0&style=social)](https://twitter.com/canyerdelenn0)
+
 #
 
 
 <h3 align="left">Social Media:</h3>
-<a href="https://instagram.com/canyerdelenn" target="blank"><img align="center" src="freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png" alt="canyerdelenn" height="30" width="40" /></a>
+[![Twitter](https://img.shields.io/twitter/follow/canyerdelenn0?label=Follow%20%40canyerdelenn0&style=social)](https://twitter.com/canyerdelenn0)
 <a href="https://twitter.com/canyerdelenn0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canyerdelenn0" height="30" width="40" /></a>
 
 
