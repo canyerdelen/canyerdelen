@@ -12,19 +12,15 @@
 
 
 
-# Social Media
+# 
 [[Instagram]](https://www.instagram.com/canyerdelenn/)
 [![Twitter](https://img.shields.io/twitter/follow/canyerdelenn0?label=Follow%20%40canyerdelenn0&style=social)](https://twitter.com/canyerdelenn0)
 #
 
 
-<h3 align="left">Beni takip et & iletişime geç:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oguzcan-genc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oguzcan-genc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12813338" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12813338" height="30" width="40" /></a>
+<h3 align="left">Social Media:</h3>
 <a href="https://instagram.com/canyerdelenn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canyerdelenn" height="30" width="40" /></a>
-<a href="https://medium.com/@oguzcangenc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@oguzcangenc" height="30" width="40" /></a>
-</p>
+
 
 
 
