@@ -11,7 +11,7 @@
 
 
 [[Instagram]](https://www.instagram.com/canyerdelenn/)
-[[Twitter]](https://img.shields.io/appveyor/ci/divmain/GitSavvy/master.svg)](https://ci.appveyor.com/project/divmain/GitSavvy)
+[[Twitter]](https://www.freepnglogos.com/uploads/instagram-social-media-logo-for-your-works-png-format-19.png)](https://ci.appveyor.com/project/divmain/GitSavvy)
 [[Discord]](https://coveralls.io/repos/github/timbrel/GitSavvy/badge.svg)](https://coveralls.io/github/timbrel/GitSavvy)
 
 Sublime Text 3 plugin providing the following features:
