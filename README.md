@@ -11,7 +11,7 @@
 <a href="https://instagram.com/canyerdelenn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="canyerdelenn" height="30" width="40" /></a>
 <a href="https://twitter.com/canyerdelenn0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="canyerdelenn0" height="30" width="40" /></a>
 
-![GitHub Canyerdelen](https://img.shields.io/github/followers/canyerdelen?label=follow&style=social](https://github.com/canyerdelen)
+[![GitHub MianJawadAhmad](https://img.shields.io/github/followers/MianJawadAhmad?label=follow&style=social)](https://github.com/MianJawadAhmad)
 
 # 
 E-Mail : <a href="/mailto:canyerdelen@hotmail.com ">canyerdelen@hotmail.com</a>
